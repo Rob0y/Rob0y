@@ -70,15 +70,17 @@ Autonomous robotics scripts and algorithms.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rob0y&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rob0y&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rob0y&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rob0y&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rob0y&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rob0y&theme=radical&hide_border=true" height="170" />
 </p>
 
----
+<p align="center">
+  <b>These stats update automatically every day 🚀</b>
+</p>
 
 ## 📫 Connect With Me
 <p align="center">
