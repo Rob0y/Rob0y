@@ -15,10 +15,11 @@
 
 ## 🏅 Achievements & Highlights
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-Competition%20Winner-FFD700?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-36B37E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algo%20Trading-Developer-FF4B4B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Enthusiast-1F75FE?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆%20Robotics%20Competition%20Winner-FFD700?style=for-the-badge&logo=robotframework&logoColor=black&labelColor=FFD700" />
+  <img src="https://img.shields.io/badge/🤝%20Open%20Source%20Contributor-36B37E?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F" />
+  <img src="https://img.shields.io/badge/📈%20Algo%20Trading%20Developer-FF4B4B?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=24292F" />
+  <img src="https://img.shields.io/badge/⚙️%20Automation%20Enthusiast-1F75FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=24292F" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20%26%20Machine%20Learning%20Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=24292F" />
 </p>
 
 ---
@@ -54,17 +55,24 @@
 ---
 
 ## 🚀 Featured Projects
-### [Tic-Tac-Toe Game](https://github.com/Rob0y/Tic-Tac-Toe-Game)
+
+### **[Tic-Tac-Toe Game](https://github.com/Rob0y/Tic-Tac-Toe-Game)**  
 A simple Python-based game where the user plays against the computer.  
-**Tech:** Python
+**Tech:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### [Algo-Trading Bot](#) *(coming soon)*
-Automated trading system using MQL5/Python.  
-**Tech:** MQL5, Python
+---
 
-### [Robotics Competition Code](#) *(coming soon)*
-Autonomous robotics scripts and algorithms.  
-**Tech:** C++, Python
+### **[SmartEntryAI (Algo-Trading Bot)](https://github.com/Rob0y/SmartEntryAI)**  
+An educational Expert Advisor (EA) for MetaTrader 5 showcasing **automated trade execution**, **signal detection**, and **risk management**.  
+**Tech:** ![MQL5](https://img.shields.io/badge/-MQL5-0033A0?style=for-the-badge&logo=MetaTrader&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### **[MNIST Digit Recognizer](https://github.com/Rob0y/MNIST-Digit-Recognizer)**  
+A deep learning project for handwritten digit recognition using **TensorFlow** and the **MNIST dataset**.  
+**Tech:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -77,7 +85,6 @@ Autonomous robotics scripts and algorithms.
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rob0y&theme=radical&hide_border=false" height="170" />
 </p>
-
 
 ## 📫 Connect With Me
 <p align="center">
